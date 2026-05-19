@@ -165,6 +165,23 @@ Day3_Job_Market_Dashboard/
 ├── import_to_mysql.py
 └── README.md
 
+
+```
+Conclusion
+
+This project helped me improve my practical understanding of:
+
+Python Data Analysis
+SQL Analytics
+Excel Dashboarding
+KPI Analysis
+Hiring Trend Analysis
+Business Intelligence
+Data Visualization
+
+Overall, this project strengthened my ability to combine Python, SQL, and Excel for real-world business analytics projects.
+
+```
 #Author
 
 Gayatri chavhan
