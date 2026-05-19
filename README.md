@@ -167,7 +167,7 @@ Day3_Job_Market_Dashboard/
 
 
 ```
-Conclusion
+# Conclusion
 
 This project helped me improve my practical understanding of:
 
@@ -182,7 +182,7 @@ Data Visualization
 Overall, this project strengthened my ability to combine Python, SQL, and Excel for real-world business analytics projects.
 
 ```
-#Author
+# Author
 
 Gayatri chavhan
 Python | SQL | Excel | Data Analytics
