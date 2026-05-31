@@ -12,7 +12,7 @@ The main objective of this project was to build a **Job Market Intelligence Dash
 
 # Tools & Technologies Used
 
-- Python
+- Python 
 - Pandas
 - Matplotlib
 - Seaborn
