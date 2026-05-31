@@ -100,7 +100,7 @@ The main objective of this project was to build a **Job Market Intelligence Dash
 
 # Python Charts & Visualizations
 
-## Top Job Roles
+## Top Job Roles 
 
 ![Top Job Roles](./charts/top_job_roles.png)
 
