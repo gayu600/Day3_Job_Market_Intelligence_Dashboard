@@ -1,4 +1,4 @@
-# Day 3 - Job Market Intelligence Dashboard 2025
+# Day 3 - Job Market Intelligence Dashboard 2025 
 
 ## Project Overview
 
