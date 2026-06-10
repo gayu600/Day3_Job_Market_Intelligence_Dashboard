@@ -88,7 +88,7 @@ The main objective of this project was to build a **Job Market Intelligence Dash
 
 ---
 
-# Key Business Insights
+# Key Business Insights 
 
 - Data Scientist roles dominate hiring demand.
 - Technology industry leads recruitment activity.
