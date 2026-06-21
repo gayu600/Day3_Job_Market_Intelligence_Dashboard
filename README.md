@@ -6,7 +6,7 @@ This project is part of my **31 Days Data Analytics & Data Science Challenge**.
 
 In this Project, I analyzed real-world job market data using **Python, SQL, and Excel** to understand hiring trends, demanded skills,job roles, industries, and recruitment activity.
 
-The main objective of this project was to build a **Job Market Intelligence Dashboard** that provides insights into the current hiring  landscape and market deamnds.
+The main objective of this project was to build a **Job Market Intelligence Dashboard** that provides insights into the current hiring  landscape and market demands.
 
 ---
 
