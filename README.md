@@ -1,6 +1,6 @@
 # Day 3 - Job Market Intelligence Dashboard 2025 
 
-## Project Overview
+## Project Overwiev
 
 This project is part of my **31 Days Data Analytics & Data Science Challenge**.
 
