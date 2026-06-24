@@ -76,7 +76,7 @@ The main objective of this project was to build a **Job Market Intelligence Dash
 
 ---
 
-## Excel Dashboard
+## Excel Dashboards 
 
 - KPI Cards
 - Pivot Tables
