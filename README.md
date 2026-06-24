@@ -33,7 +33,7 @@ The main objective of this project was to build a **Job Market Intelligence Dash
 4. SQL Database Import
 5. SQL KPI Analysis
 6. Excel Pivot Tables
-7. Excel Dashboard Creation
+7. Excel Dashboard Creations 
 8. Business Insights
 9. GitHub Documentation
 
