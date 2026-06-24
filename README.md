@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-This project is part of my **31 Days Data Analytics & Data Science Challenge**.
+This project is part of my **31  Days Data Analytics & Data Science Challenge**.
 
 In this Project, I analyzed real-world job market data using **Python, SQL, and Excel** to understand hiring trends, demanded skills,Job roles, industries, and recruitment activity.
 
