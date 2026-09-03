@@ -8,7 +8,7 @@ In this Project, I analyzed real-world job market data using **Python, SQL, and 
 
 The main objective of this project was to build a **Job Market Intelligence Dashboard** that provides insights into the current hiring    landscape and market demand.  
  
----
+--- 
 
 # Tools & Technologies used   
 
