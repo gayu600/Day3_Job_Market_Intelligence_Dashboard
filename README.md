@@ -16,7 +16,7 @@ The main objective of this project was to build a **Job Market Intelligence Dash
 - Pandas
 - Matplotlib
 - Seaborn
-- SQL
+- SQL 
 - MySQL
 - Microsoft Excel
 - Pivot Tables
