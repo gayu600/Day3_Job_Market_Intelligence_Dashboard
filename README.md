@@ -25,7 +25,7 @@ The main objective of this project was to build a **Job Market Intelligence Dash
 
 ---
 
-# Project Workflow
+# Project Workflow 
 
 1. Dataset Collection 
 2. Data Cleaning using Python
